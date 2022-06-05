@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Frontend
+- 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning AWS
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-mohanty-0447941b2/)
 ---
